@@ -5,7 +5,7 @@ set -e
 # TODO: Set to URL of git repo.
 PROJECT_GIT_URL='git@github.com:NILodio/profiles-rest-api.git'
 
-PROJECT_BASE_PATH='F:/STUDY/2_CURSOS_ONLINE/profiles-rest-api/deploy/setup.sh'
+PROJECT_BASE_PATH='F:/STUDY/2_CURSOS_ONLINE/profiles-rest-api'
 
 echo "Installing dependencies..."
 apt-get update

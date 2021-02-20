@@ -2,7 +2,7 @@
 
 set -e
 
-PROJECT_BASE_PATH='/f/STUDY/2_CURSOS_ONLINE/profiles-rest-api'
+PROJECT_BASE_PATH='/Users/danil/Documents/Study/2_CURSOS_ONLINE/profiles-rest-api'
 
 git pull
 $PROJECT_BASE_PATH/env/bin/python manage.py migrate
